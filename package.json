@@ -1,0 +1,21 @@
+{
+  "name": "sunset-graphite",
+  "displayName": "Sunset Graphite",
+  "description": "A blend of dusk tones and a bit of warmth.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sunset Graphite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sunset Graphite-color-theme.json"
+      }
+    ]
+  }
+}
