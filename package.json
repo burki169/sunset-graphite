@@ -2,13 +2,19 @@
   "name": "sunset-graphite",
   "displayName": "Sunset Graphite",
   "description": "A blend of dusk tones and a bit of warmth.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.104.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burki169/sunset-graphite"
   },
   "categories": [
     "Themes"
   ],
+  "license": "MIT",
+  "publisher":"burki169",
   "contributes": {
     "themes": [
       {
